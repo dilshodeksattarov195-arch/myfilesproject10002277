@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvync",
+        "uuid": 21050865,
+        "checksum": "m8xqyr"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
